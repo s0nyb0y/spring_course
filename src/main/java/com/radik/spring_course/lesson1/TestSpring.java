@@ -1,4 +1,4 @@
-package com.radik.spring_course;
+package com.radik.spring_course.lesson1;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
